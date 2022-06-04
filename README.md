@@ -1,2 +1,2 @@
-# grid-portfolio-project
+# grid portfolio project
 Grid Portfolio Project
